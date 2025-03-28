@@ -1,0 +1,20 @@
+{
+    "hepsiemlak": {
+        "threads": [
+            {
+                "last_page": 1,
+                "last_link": "https://www.hepsiemlak.com/satilik",
+                "stage": "fetched"
+            }
+        ]
+    },
+    "emlakjet": {
+        "threads": [
+            {
+                "last_page": 1,
+                "last_link": "https://www.emlakjet.com/",
+                "stage": "fetched"
+            }
+        ]
+    }
+}
